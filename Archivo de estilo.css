@@ -1,0 +1,19 @@
+h1 {
+    font-family: Arial;
+    background: rgb(5, 168, 243);   
+    margin: 0.5em 0;
+}
+a:link {
+    color: blue
+    background-color aqua;
+}
+td {
+    font-family: Arial;
+    background-color: rgb(96, 161, 59);   
+    margin: 0.5em 0;
+}
+th {
+    font-family: Arial;
+    background-color: rgb(197, 101, 101);   
+    margin: 0.5em 0;
+}
